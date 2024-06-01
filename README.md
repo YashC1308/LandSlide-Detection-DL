@@ -24,4 +24,4 @@ These are the model results, i.e the landslides it was able to identify:
 
 
 A slide deck can also be found here:
-https://www.canva.com/design/DAGDvZu8jek/xuHtYdn7MZ-0KHY3A9AoWQ/edit?utm_content=DAGDvZu8jek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+(https://drive.google.com/file/d/1m3CKnGdIgeTEUE_nbmWFyHOcN8NrVOQe/view?usp=sharing)
