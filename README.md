@@ -1,5 +1,8 @@
 # LandSlide-Detection-DL
 
+A slide deck can also be found <a href = "https://docs.google.com/presentation/d/1XBrxFEC0Vevl71OohKzahIv-yZ3y08jYd3MabAb84k4/edit?usp=drive_link"> here </a>
+
+
 This project explores the idea of multiple Landslide detection in cases of natural calamities such as heavy rainfall or earthquakes using Sattelite images to assess and identify damage quickly; this project has the potential to reduce manual annotation by a significant portion, allowing deep machine learning models to pick up on damage caused by calamities.
 
 Multiple landslide events occur often across the world which have the potential to cause significant harm to both human life and property. Although a substantial amount of research has been conducted to
@@ -22,5 +25,9 @@ These are the model results, i.e the landslides it was able to identify:
 ![download (1)](https://github.com/YashC1308/LandSlide-Detection-DL/assets/83706455/4c963b08-e9f8-4d28-bd03-35cd0e96c7bf)
 
 
+Tech Stack:
+Python, Tensorflow, Keras, GeoPandas, Rasterio, Numpy , Matplotlib
 
-A slide deck can also be found <a href = "https://docs.google.com/presentation/d/1XBrxFEC0Vevl71OohKzahIv-yZ3y08jYd3MabAb84k4/edit?usp=drive_link"> here </a>
+
+
+
