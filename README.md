@@ -5,7 +5,7 @@ This project explores the idea of multiple Landslide detection in cases of natur
 Multiple landslide events occur often across the world which have the potential to cause significant harm to both human life and property. Although a substantial amount of research has been conducted to
 address mapping of landslides using Earth observation (EO) data, several gaps and uncertainties remain with developing models to be operational at the global scale.
 
-A dataset available at https://zenodo.org/records/7189381#.Y0a2UHZBxD9 has been used for this project.
+A dataset available at <a href = "https://zenodo.org/records/7189381#.Y0a2UHZBxD9"> here </a> has been used for this project.
 
 HR-GLDD, a high-resolution (HR) dataset for landslide mapping composed of landslide instances from ten different physiographical regions globally: South and South-East Asia, East Asia, South America, and Central America. The dataset contains five rainfall-triggered and five earthquake-triggered multiple landslide events that occurred in varying geomorphological and topographical regions.
 
@@ -23,5 +23,4 @@ These are the model results, i.e the landslides it was able to identify:
 
 
 
-A slide deck can also be found here:
-(https://drive.google.com/file/d/1m3CKnGdIgeTEUE_nbmWFyHOcN8NrVOQe/view?usp=sharing)
+A slide deck can also be found <a href = "https://docs.google.com/presentation/d/1XBrxFEC0Vevl71OohKzahIv-yZ3y08jYd3MabAb84k4/edit?usp=drive_link"> here </a>
